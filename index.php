@@ -16,7 +16,7 @@
         </div>
         <p class="mb-5 text-base text-gray-700 md:text-lg md:text-center">
           Nuestro centro de salud está dotado con el mejor equipo de médicos y enfermeros para atender a nuestros pacientes.
-          Agenda tu cita médica en la especialidad de tu necesidad.
+          Agenda tu cita médica en la especialidad de tus necesidades.
         </p>
         <div class="mb-10 text-center md:mb-16 lg:mb-20">
           <a href="ingresoPacientes.php" class="inline-flex items-center justify-center w-full h-12 px-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md md:w-auto bg-purple-500 hover:bg-purple-700 focus:shadow-outline focus:outline-none">

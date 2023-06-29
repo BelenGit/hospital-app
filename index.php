@@ -15,7 +15,7 @@
 
         </div>
         <p class="mb-5 text-base text-gray-700 md:text-lg md:text-center">
-          Nuestro centro de salud está dotado del mejor equipo de médicos y enfermeros para atender a nuestros pacientes.
+          Nuestro centro de salud está dotado con el mejor equipo de médicos y enfermeros para atender a nuestros pacientes.
           Agenda tu cita médica en la especialidad de tu necesidad.
         </p>
         <div class="mb-10 text-center md:mb-16 lg:mb-20">

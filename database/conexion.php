@@ -3,7 +3,7 @@ function connection()
 {
     $server = "localhost";
     $user = "root";
-    $password = "";
+    $password = "Belen123!";
     $database = "hospital-app";
     try {
         $connection = new PDO("mysql:host=$server;dbname=$database", $user, $password); // Conexión a la base de datos con PDO
